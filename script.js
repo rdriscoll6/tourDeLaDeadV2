@@ -50,74 +50,74 @@ function initMap() {
             locationName: 'Day 0: Seattle, WA',
             lat: 47.4483688,
             lng: -122.3111622,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day0.html'
+            url: 'day0.html'
         },
         {
             locationName: 'Day 1: Seattle to Gorst',
             lat: 47.5214745, 
             lng: -122.7224791,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day1.html'
+            url: 'day1.html'
         },
         {
             locationName: 'Day 2: Gorst to Elma',
             lat: 47.0071037, 
             lng: -123.4918403,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day2.html'
+            url: 'day2.html'
         },
         {
             locationName: 'Day 3: Elma to Castle Rock',
             lat: 46.2737382, 
             lng: -122.9154672,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day3.html'
+            url: 'day3.html'
         },
         {
             locationName: 'Day 4: Castle Rock to Longview',
             lat: 46.1422939, 
             lng: -122.9655535,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day4.html'
+            url: 'day4.html'
         },
         {
             locationName: 'Day 5: Longview to Astoria',
             lat: 46.1875234, 
             lng:-123.8399228,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day5.html'
+            url: 'day5.html'
         },
         {
             locationName: 'Day 6: Astoria to Cannon Beach',
             lat: 45.8915384, 
             lng:-123.9626711,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day6.html'
+            url: 'day6.html'
         },
         {
             locationName: 'Day 7: Cannon Beach to Pacific City',
             lat: 45.2006927, 
             lng:-123.9693232,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day7.html'
+            url: 'day7.html'
         },
         {
             locationName: 'Day 8: Pacific City to Newport',
             lat: 44.6,
             lng:-124.0573565,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day8.html'
+            url: 'day8.html'
         },
         {
             locationName: 'Day 9: Newport',
             lat: 44.6368871,
             lng:-124.0573565,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day9.html'
+            url: 'day9.html'
         },
         
         {
             locationName: 'Day 10: Newport to Florence',
             lat: 43.9838266, 
             lng:-124.1024063,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day10.html'
+            url: 'day10.html'
         },
         {
             locationName: 'Day 11: Florence to Coos Bay',
             lat: 43.3319494, 
             lng:-124.3727432,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day11.html'
+            url: 'day11.html'
         },
         
         
@@ -125,135 +125,135 @@ function initMap() {
             locationName: 'Day 12: Coos Bay to Port Orford',
             lat: 42.7460128, 
             lng:-124.4982434,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day12.html'
+            url: 'day12.html'
         },
         {
             locationName: 'Day 13: Port Orford to Brookings',
             lat: 42.053794, 
             lng:-124.285754,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day13.html'
+            url: 'day13.html'
         },
 
         {
             locationName: 'Day 14: Brookings to Orick',
             lat: 41.3587664, 
             lng:-124.0321365,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day14.html'
+            url: 'day14.html'
         },
         {
             locationName: 'Day 15: Orick to Eureka',
             lat: 40.7956776, 
             lng:-124.1713741,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day15.html'
+            url: 'day15.html'
         },
         {
             locationName: 'Day 16: Eureka to Burlington',
             lat: 40.3093584, 
             lng:-123.9111004,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day16.html'
+            url: 'day16.html'
         },
         {
             locationName: 'Day 17: Burlington to Legget',
             lat: 39.878902, 
             lng:-123.7423573,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day17.html'
+            url: 'day17.html'
         },
         {
             locationName: 'Day 18: Legget to Little River',
             lat: 39.2741923, 
             lng:-123.7913404,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day18.html'
+            url: 'day18.html'
         },
         {
             locationName: 'Day 19: Little River to Walsh Landing',
             lat: 38.5481242, 
             lng:-123.2948153,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day19.html'
+            url: 'day19.html'
         },
         {
             locationName: 'Day 20: Walsh Landing to Lagunitas',
             lat: 38.0246498, 
             lng:-122.7239673,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day20.html'
+            url: 'day20.html'
         },
         {
             locationName: 'Day 21: Lagunitas to San Franciso',
             lat: 37.781122, 
             lng: -122.4729165,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day21.html'
+            url: 'day21.html'
         },
         {
             locationName: 'Day 22: San Franciso',
             lat: 37.73, 
             lng: -122.4729165,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day22.html'
+            url: 'day22.html'
         },
         {
             locationName: 'Day 23: San Franciso to Half Moon',
             lat: 37.4637923, 
             lng: -122.4378723,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day23.html'
+            url: 'day23.html'
         },
         {
             locationName: 'Day 24: Half Moon to Capitola',
             lat: 36.9775311, 
             lng: -121.9456407,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day24.html'
+            url: 'day24.html'
         },
         {
             locationName: 'Day 25: Capitola to King City',
             lat: 36.2132404, 
             lng: -121.129526,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day25.html'
+            url: 'day25.html'
         },
         {
             locationName: 'Day 26: King City to Paso Robles',
             lat: 35.6335549, 
             lng: -120.618246,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day26.html'
+            url: 'day26.html'
         },
         {
             locationName: 'Day 27: Paso Robles to San Luis Obispo',
             lat: 35.2815335, lng: -120.6631689,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day27.html'
+            url: 'day27.html'
         },
         {
             locationName: 'Day 28: San Luis Obispo to Gaviota',
             lat: 34.4886711, lng: -120.2322721,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day28.html'
+            url: 'day28.html'
         },
         {
             locationName: 'Day 29: Gaviota to Carpinteria',
             lat: 34.3989752, lng: -119.5192956,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day29.html'
+            url: 'day29.html'
         },
         {
             locationName: 'Day 30: Carpinteria to Malibu',
             lat: 34.0336359, lng: -118.7398326,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day30.html'
+            url: 'day30.html'
         },
         {
             locationName: 'Day 31: Malibu to Los Angeles',
             lat: 33.7716182, lng: -118.2030138,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day31.html'
+            url: 'day31.html'
         },
         {
             locationName: 'Day 32: Los Angeles to Oceanside',
             lat: 33.1961264, lng: -117.3804237,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day32.html'
+            url: 'day32.html'
         },
         
         {
             locationName: 'Day 33: Oceanside to San Diego',
             lat: 32.7542817,
             lng: -117.2380931,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day33.html'
+            url: 'day33.html'
         },
         {
             locationName: 'Day 34: San Diego to Imperial Beach',
             lat: 32.5348551,
             lng: -117.1227964,
-            url: '/home/rdriscoll/Desktop/bikeBlog/day34.html'
+            url: 'day34.html'
         }
     ];
 
