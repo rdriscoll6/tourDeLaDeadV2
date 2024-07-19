@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map</title>
+    <link rel="stylesheet" href="stylesheet.css">
+
+
+    <style>
+        *{ padding: 0; margin: 0}
+        html, body{
+            height: 100%;
+            width: 100%;
+        }
+        #google-map{
+            width: 500px;
+            height: 700px;
+            margin: 0 auto;
+            margin-bottom: 40px;
+        }
+        .instructions{
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            text-align: CENTER;
+            height: 80px;
+            width: 500px;
+            background-color: white;
+            margin-bottom: 0px;
+            color: rgb(75, 75, 75);
+        }
+        .instruction-detail{
+            font-size: 13px;
+            margin-top: 10px;
+        }
+        h2{
+            width: 100%;
+            background-color: rgb(24, 97, 97);
+            color: white;
+        }
+        .header {
+            position: fixed;
+            font-family: sans-serif;
+            top: 0; /* Ensure it stays at the top */
+            width: 100%; /* Make it full-width */
+            z-index: 1000; /* Ensure it's above other content */
+            background-color: rgb(24, 97, 97); /* Add background color to avoid transparency issues */
+        }
+        .feh-content h3{
+            color: black;
+        }
+
+    </style>
+    <script>
+        // JavaScript to toggle dropdown menu
+        document.querySelector('.menuIcon').addEventListener('click', function() {
+            document.querySelector('.dropdownMenu').classList.toggle('show');
+        });
+    </script>
+</head>
+<body>
+    <div class="header">
+        <h1 class="logo">Tour De La Dead V2</h1>
+
+        <ul class="headerItems">
+            <a href="about.html" class="menuOption">ABOUT</a>
+            <a href="bikeTourMain.html" class="menuOption" >BIKE TOUR</a>
+            <a href="" class="selectedPage">MAP</a>
+        </ul>
+        
+
+    </div>
+    <div class="body">
+        <div class="instructions">
+            <h2>INTERACTIVE MAP</h2>
+            <p class="instruction-detail">Click on the dancing bears to view the journal entry for each location.</p>
+        </div>
+        <div id="google-map"></div>
+    </div>
+
+    <footer class="footer">
+        <p>Copyright 2024 TourDeLaDead.com. All Rights Reserved</p>
+    </footer>
+    
+    
+    
+</body>
+
+<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJgIT99JjISZz_R048Q_UIiRavg2b8LB4&callback=initMap"></script>
+<script src="script.js"></script>
